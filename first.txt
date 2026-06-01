@@ -3,3 +3,4 @@ hello
 added extra filler
 changes from cloud 
 will it cause conflict?
+when does a conflict need to get resolved manually and when automatically?
