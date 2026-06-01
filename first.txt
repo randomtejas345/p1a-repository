@@ -1,4 +1,4 @@
 simple git demo revision
-hello
+now it will cause conflicts
 changes from cloud 
 will it cause conflict?
