@@ -1,4 +1,5 @@
 simple git demo revision
-now it will cause conflicts
+hello
+added extra filler
 changes from cloud 
 will it cause conflict?
